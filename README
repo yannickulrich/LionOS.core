@@ -1,0 +1,18 @@
+Changes:
+	* Beginn der Argumentenuebergabe von KRN->US (stable & working)
+	* Beginn von FATWrite (stable & not finish)
+	* Ende des FATLoaders
+	* Rekursives Ordnerlisten
+
+TODO:
+	* Uebergabe von char **argv von KRN->US (!)
+	* RewriteFAT (FATENTRY fat1[] zurueck schreiben)
+	* Dateien loeschen
+	* Dateien erstellen
+	* Ordner erstellen
+	* Ordner loeschen
+	* mount/umount
+	* VFS
+	* CMDHistory
+	* shell in Programme aufteilen (!)
+	* Network

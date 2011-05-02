@@ -1,0 +1,7 @@
+default 0
+timeout 8
+title shell
+    root (fd0)
+    kernel /kernel
+    module /shell.elf
+    boot
